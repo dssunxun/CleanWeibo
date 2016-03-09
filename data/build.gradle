@@ -77,5 +77,5 @@ dependencies {
     testCompile testDependencies.assertj
     testCompile testDependencies.mockito
     testCompile testDependencies.robolectric
-    compile files('libs/weiboSDKCore_3.1.4.jar')
+    compile files('../buildsystem/weiboSDKCore_3.1.4.jar')
 }
