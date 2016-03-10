@@ -1,4 +1,4 @@
-package com.renova.cleanweibo;
+package com.renova.presentation;
 
 import android.app.Activity;
 import android.os.Bundle;

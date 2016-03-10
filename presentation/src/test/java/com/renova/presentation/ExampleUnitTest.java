@@ -1,4 +1,4 @@
-package com.renova.cleanweibo;
+package com.renova.presentation;
 
 import org.junit.Test;
 
